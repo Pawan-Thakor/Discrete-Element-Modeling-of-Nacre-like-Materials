@@ -1,0 +1,3 @@
+This Matlab code solves for 1D Spring members. The Inputs are to be given in Spring.m file itself.
+
+The inputs contain Node Number, Element Connectivity and Spring Constant along with Boundary Consitions which can be seen in Spring.m file
