@@ -10,4 +10,6 @@ The Matlab codes which helped to make the final DEM Modelling code is also inclu
 5) Statistical Volume Element (SVE) for Staggered Composite
 6) Arc Length Control Method for SVE (currrently working on for improving the results)
 
+The above codes are made from a Reference Paper "Discrete-element modeling of nacre-like materials: Effects of random microstructures on strain localization and mechanical performance", by Najmul Abid, Mohammad Mirkhalaf, Francois Barthelat
+
 Made by: Pawan Thakor
