@@ -1,0 +1,5 @@
+Input to the Matlab Code is using Excel Sheet. Every input is clearly defined in Excel. 
+
+This code work for 2D Truss members in Combination with 1D Springs members.
+
+The various excel sheet provided are for various types of Problem that are solved by me.

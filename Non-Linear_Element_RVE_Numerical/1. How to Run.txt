@@ -1,0 +1,5 @@
+Input for the Matlab Code is in Non_Linear_Elastic_Truss_RVE_Analytic.m
+
+Here using Analytic Results for RVE which are obtained in the Report, Stress-Strain curve is generated.
+
+The inputs to the Matlab Code will be G,H,tau_y,gamma_u,gamma_p_s (These inputs could be seen the the Report) 
