@@ -1,0 +1,9 @@
+Input for the Matlab Code is in Non_Linear_Elastic_Spring_SVE.m
+
+Here Statistical Variation are introduced in the code by chnging values of overlap ratio (k).
+Thus input includes: 5 Properties for Shear Stress-Strain curve
+		     k_mean (mean overlap ratio)
+                     rho_mean (mean Tablet Length to thickness ratio)
+		     ratio (amount of vaiation in rho from its mean value )
+
+The Answers are coming perfectly fine for Ratio=0, but as soon as statistical variation is applied, the unconvergence of Stress-Strain value happen as soon as one of the interface enter into the softening region.
