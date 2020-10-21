@@ -1,0 +1,3 @@
+NOTE: If any of the code for Non-Linear Element is not giving answer as aspected then try reducing size of increment (This would help in convergence of Solution)
+
+NOTE: Due to unconvergence, I as not able to obtain answer for Softening Region of SVE
